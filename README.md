@@ -45,6 +45,7 @@ double rata = total / nilai.length;
 Rata-rata diperoleh dari total dibagi jumlah data (nilai.length).
 
 5. Menampilkan hasil
+
 print('Nilai siswa: $nilai');
 print('Rata-rata nilai: ${rata.toStringAsFixed(2)}');
 Hasil ditampilkan di console dengan dua angka di belakang koma.
